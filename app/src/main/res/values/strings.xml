@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RandomNumber(Upto)</string>
+    <string name="enter_the_max_no">Enter the Max No.</string>
+    <string name="enter">Enter</string>
+</resources>
